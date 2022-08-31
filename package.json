@@ -1,0 +1,27 @@
+{
+	"name": "flopholic-backend",
+	"version": "1.0.0",
+	"description": "Backend server written in express",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Mediocorite/flopholic-backend.git"
+	},
+	"keywords": [
+		"express",
+		"node"
+	],
+	"author": "Anzar Ahmad Malik",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Mediocorite/flopholic-backend/issues"
+	},
+	"homepage": "https://github.com/Mediocorite/flopholic-backend#readme",
+	"dependencies": {
+		"express": "^4.18.1"
+	}
+}
